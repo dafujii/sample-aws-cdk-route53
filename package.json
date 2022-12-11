@@ -23,7 +23,7 @@
   "dependencies": {
     "@aws-cdk/aws-route53": "^1.30.0",
     "@aws-cdk/aws-sns": "1.30.0",
-    "@aws-cdk/aws-sns-subscriptions": "1.30.0",
+    "@aws-cdk/aws-sns-subscriptions": "1.182.0",
     "@aws-cdk/aws-sqs": "1.30.0",
     "@aws-cdk/core": "1.30.0"
   }
